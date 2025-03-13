@@ -8,7 +8,7 @@
 - Markdown
 
 ## Моё фото
-![Моё фото](https://disk.yandex.ru/i/lVeq00ZHpwqVuA)
+![alt text](<2025-03-13 23.09.54-1.jpg>)
 
 ## Контакты
 - Email: lukashenok_andrei@mail.ru
