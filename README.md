@@ -8,7 +8,7 @@
 - Markdown
 
 ## Моё фото
-![alt text](<2025-03-13 23.09.54-1.jpg>)
+[![temp-Imagesj-KBq-B.avif](https://i.postimg.cc/5tZK8wTY/temp-Imagesj-KBq-B.avif)](https://postimg.cc/hJ10B7Sc)
 
 ## Контакты
 - Email: lukashenok_andrei@mail.ru
